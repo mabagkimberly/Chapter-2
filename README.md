@@ -9,4 +9,5 @@ Additionally, I explored the difference between stateless and stateful widgets. 
 while stateful widgets are used when the UI needs to change dynamically based on user interaction or other factors.Lastly,
 I learned how to add external packages to the app using Flutter’s package manager.
 
-![Screenshot](https://github.com/user-attachments/assets/36582c23-b263-4042-ba43-6381ca3e40f9)
+<img width="279" alt="chapter-2" src="https://github.com/user-attachments/assets/b7b7b543-787b-4e9e-97cc-4ece70543d24">
+
